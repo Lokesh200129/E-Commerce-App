@@ -1,7 +1,7 @@
 import ProductCard from './component/ProductCard'
 import Payment from './component/Payment'
 import Cart from './component/Cart'
-import Navbar from './component/NavBar'
+import Navbar from './component/Navbar'
 import './App.css'
 import { useEffect, useState } from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
